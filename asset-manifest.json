@@ -1,28 +1,28 @@
 {
   "files": {
-    "main.css": "/TA_APP.git/static/css/main.a74f80dd.chunk.css",
-    "main.js": "/TA_APP.git/static/js/main.a2b25bcc.chunk.js",
-    "main.js.map": "/TA_APP.git/static/js/main.a2b25bcc.chunk.js.map",
-    "runtime-main.js": "/TA_APP.git/static/js/runtime-main.9d46f76e.js",
-    "runtime-main.js.map": "/TA_APP.git/static/js/runtime-main.9d46f76e.js.map",
-    "static/js/2.82ae3ef8.chunk.js": "/TA_APP.git/static/js/2.82ae3ef8.chunk.js",
-    "static/js/2.82ae3ef8.chunk.js.map": "/TA_APP.git/static/js/2.82ae3ef8.chunk.js.map",
-    "index.html": "/TA_APP.git/index.html",
-    "precache-manifest.21625f370d5c4acbbeace5a79f23faf0.js": "/TA_APP.git/precache-manifest.21625f370d5c4acbbeace5a79f23faf0.js",
-    "service-worker.js": "/TA_APP.git/service-worker.js",
-    "static/css/main.a74f80dd.chunk.css.map": "/TA_APP.git/static/css/main.a74f80dd.chunk.css.map",
-    "static/js/2.82ae3ef8.chunk.js.LICENSE.txt": "/TA_APP.git/static/js/2.82ae3ef8.chunk.js.LICENSE.txt",
-    "static/media/Master.jpg": "/TA_APP.git/static/media/Master.6d4b887a.jpg",
-    "static/media/algo.jpg": "/TA_APP.git/static/media/algo.a0e77ff3.jpg",
-    "static/media/Home.module.css": "/TA_APP.git/static/media/bgg.002d7e63.gif",
-    "static/media/network.jpg": "/TA_APP.git/static/media/network.3451a219.jpg",
-    "static/media/operating.png": "/TA_APP.git/static/media/operating.f4d9cdc9.png",
-    "static/media/software.jpeg": "/TA_APP.git/static/media/software.deaa39cc.jpeg"
+    "main.css": "/TA_APP/static/css/main.575707c0.chunk.css",
+    "main.js": "/TA_APP/static/js/main.001ccb5c.chunk.js",
+    "main.js.map": "/TA_APP/static/js/main.001ccb5c.chunk.js.map",
+    "runtime-main.js": "/TA_APP/static/js/runtime-main.9cb9a772.js",
+    "runtime-main.js.map": "/TA_APP/static/js/runtime-main.9cb9a772.js.map",
+    "static/js/2.82ae3ef8.chunk.js": "/TA_APP/static/js/2.82ae3ef8.chunk.js",
+    "static/js/2.82ae3ef8.chunk.js.map": "/TA_APP/static/js/2.82ae3ef8.chunk.js.map",
+    "index.html": "/TA_APP/index.html",
+    "precache-manifest.c14cc238ee961bf7381961a433d194ae.js": "/TA_APP/precache-manifest.c14cc238ee961bf7381961a433d194ae.js",
+    "service-worker.js": "/TA_APP/service-worker.js",
+    "static/css/main.575707c0.chunk.css.map": "/TA_APP/static/css/main.575707c0.chunk.css.map",
+    "static/js/2.82ae3ef8.chunk.js.LICENSE.txt": "/TA_APP/static/js/2.82ae3ef8.chunk.js.LICENSE.txt",
+    "static/media/Master.jpg": "/TA_APP/static/media/Master.6d4b887a.jpg",
+    "static/media/algo.jpg": "/TA_APP/static/media/algo.a0e77ff3.jpg",
+    "static/media/Home.module.css": "/TA_APP/static/media/bgg.002d7e63.gif",
+    "static/media/network.jpg": "/TA_APP/static/media/network.3451a219.jpg",
+    "static/media/operating.png": "/TA_APP/static/media/operating.f4d9cdc9.png",
+    "static/media/software.jpeg": "/TA_APP/static/media/software.deaa39cc.jpeg"
   },
   "entrypoints": [
-    "static/js/runtime-main.9d46f76e.js",
+    "static/js/runtime-main.9cb9a772.js",
     "static/js/2.82ae3ef8.chunk.js",
-    "static/css/main.a74f80dd.chunk.css",
-    "static/js/main.a2b25bcc.chunk.js"
+    "static/css/main.575707c0.chunk.css",
+    "static/js/main.001ccb5c.chunk.js"
   ]
 }
